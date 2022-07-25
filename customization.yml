@@ -1,0 +1,7 @@
+island-scale: 1
+island-max-height: 250
+island-min-height: -40
+island-undercarriage-translate: -30
+island-flatness: 2
+island-taper: 100
+island-threshold: 0.4

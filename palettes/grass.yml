@@ -1,0 +1,11 @@
+id: GRASS
+
+type: PALETTE
+
+layers:
+  - materials: minecraft:grass_block
+    layers: 1
+  - materials: minecraft:dirt
+    layers: 2
+  - materials: minecraft:stone
+    layers: 1

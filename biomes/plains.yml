@@ -1,0 +1,11 @@
+id: PLAINS
+type: BIOME
+extends: TERRAIN
+vanilla: minecraft:plains
+
+palette:
+  - GRASS: 319
+
+features:
+  flora:
+    - GRASS
